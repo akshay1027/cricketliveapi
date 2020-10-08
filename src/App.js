@@ -29,7 +29,7 @@ function App() {
           T20 Live
         </h1>
         <h2> Get quick updates of upcoming matches</h2>
-        <h3> Made with ❤ by Akshay after 27 cups of coffee ☕ </h3>
+        <h5> Made with ❤ by Akshay after 27 cups of coffee ☕ </h5>
       </div>
       <Container> 
         <Grid container>
