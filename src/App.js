@@ -29,8 +29,9 @@ function App() {
           T20 Live
         </h1>
         <h2> Get quick updates of upcoming matches</h2>
+        <h3> Made with ❤ by Akshay after 27 cups of coffee ☕ </h3>
       </div>
-      <Container>
+      <Container> 
         <Grid container>
           <Grid item xs={12}>
             {matches.map((match) => (
